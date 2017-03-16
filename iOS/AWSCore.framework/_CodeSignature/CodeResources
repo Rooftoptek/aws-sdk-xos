@@ -146,7 +146,7 @@
 		</data>
 		<key>Headers/AWSSTSModel.h</key>
 		<data>
-		ecGGP1ru8ZV7KQ5zwZ8ASyYC4+o=
+		cD5KI0EG09bBIZWwAS2+qbY6JOI=
 		</data>
 		<key>Headers/AWSSTSResources.h</key>
 		<data>
@@ -154,7 +154,7 @@
 		</data>
 		<key>Headers/AWSSTSService.h</key>
 		<data>
-		LZOGSh0kNBfDsM0etol9jxFQvas=
+		riI4IFPv7C1/AOulbAplp4sh2hg=
 		</data>
 		<key>Headers/AWSSerialization.h</key>
 		<data>
@@ -166,7 +166,7 @@
 		</data>
 		<key>Headers/AWSServiceEnum.h</key>
 		<data>
-		9aUAyrclosCxFwrbJHx1geDhWqs=
+		EMML1qEgXOByP6owneKXAn9W/9Y=
 		</data>
 		<key>Headers/AWSSignature.h</key>
 		<data>
@@ -242,7 +242,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		NPqEqkD1uLDVZjXxlaBlMrk1lak=
+		Zb8XDZYUsb1zOor/IdUe/O0w5Ls=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -644,11 +644,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ecGGP1ru8ZV7KQ5zwZ8ASyYC4+o=
+			cD5KI0EG09bBIZWwAS2+qbY6JOI=
 			</data>
 			<key>hash2</key>
 			<data>
-			6R4UeSwv+KSV4cxCy2FcpP0ZRDpYWHvkeEVFGwFgbhA=
+			qpldpjHoPsf9cAWC6dh6nCYYHXmNwK79bsJKLGCtpZk=
 			</data>
 		</dict>
 		<key>Headers/AWSSTSResources.h</key>
@@ -666,11 +666,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LZOGSh0kNBfDsM0etol9jxFQvas=
+			riI4IFPv7C1/AOulbAplp4sh2hg=
 			</data>
 			<key>hash2</key>
 			<data>
-			eIvDVB4kDAGZEqMIo3Cr4upWyFwe2NzWxb8mh0/pdPk=
+			n9JbcoRbtEkUowd/uooRDdfxPheNb1eNdiuUGOw/FwI=
 			</data>
 		</dict>
 		<key>Headers/AWSSerialization.h</key>
@@ -699,11 +699,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9aUAyrclosCxFwrbJHx1geDhWqs=
+			EMML1qEgXOByP6owneKXAn9W/9Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			5DzH3IVWlMVwGuwzOxgJRJsUUOwx55c8dyA4yUJBd98=
+			+mhrFHzxU+QN5YUJcPP9xBpYmt1R4oTr9ib+7ZPlOeA=
 			</data>
 		</dict>
 		<key>Headers/AWSSignature.h</key>
