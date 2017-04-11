@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/AWSS3Model.h</key>
 		<data>
-		iAJHRsks1fvORsbmXMZoOSQGi94=
+		swhJsY9R2jpox93ulyS/q19zSO4=
 		</data>
 		<key>Headers/AWSS3PreSignedURL.h</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Headers/AWSS3TransferUtility.h</key>
 		<data>
-		NxZN8fZjEvqdQRR2ponqakFuGvU=
+		JPOCtLCLiNg4pmUN9d42gXmY/WU=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		VyXEtBmaWievGhBIvCirZX7CajM=
+		KoQQvhjPEsHQcDUrPJozZJ37d6c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -58,11 +58,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iAJHRsks1fvORsbmXMZoOSQGi94=
+			swhJsY9R2jpox93ulyS/q19zSO4=
 			</data>
 			<key>hash2</key>
 			<data>
-			BuJt7iqedSer0Bb/RCvZY30TiXSHZhLwg9iAtUcvzHA=
+			zHoKeJwBbCY7eGjl9y/XTuJHdBpI5igYWv+AXgn3mgU=
 			</data>
 		</dict>
 		<key>Headers/AWSS3PreSignedURL.h</key>
@@ -113,11 +113,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NxZN8fZjEvqdQRR2ponqakFuGvU=
+			JPOCtLCLiNg4pmUN9d42gXmY/WU=
 			</data>
 			<key>hash2</key>
 			<data>
-			z9UaA8iNj4WNFA48+80yKXWCzHNU5kWicFfzkxYBxgY=
+			zs5Xij6MPONnldMPEYGL9eUGvqpluwMmyQyKccUhs+A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

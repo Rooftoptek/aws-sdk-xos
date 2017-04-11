@@ -50,7 +50,7 @@
 		</data>
 		<key>Headers/AWSCredentialsProvider.h</key>
 		<data>
-		i54zSTACpBDw7uQcxEeL1RcDdzU=
+		054KqKBV2mPblejsJ5nPSiFpT9A=
 		</data>
 		<key>Headers/AWSDevice.h</key>
 		<data>
@@ -166,7 +166,7 @@
 		</data>
 		<key>Headers/AWSServiceEnum.h</key>
 		<data>
-		EMML1qEgXOByP6owneKXAn9W/9Y=
+		FypHcl83czTPB+2k2i8wLnoDpSI=
 		</data>
 		<key>Headers/AWSSignature.h</key>
 		<data>
@@ -242,7 +242,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ISRj3RaA9lixjbAES6sGuaAQeGA=
+		q6FgulApN5/hFxfQOo60pPOtdZQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -380,11 +380,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			i54zSTACpBDw7uQcxEeL1RcDdzU=
+			054KqKBV2mPblejsJ5nPSiFpT9A=
 			</data>
 			<key>hash2</key>
 			<data>
-			75/js9Wjpjz5guV5MPiFXpqersYMj7Fa2Ygo9zCcSUQ=
+			CRr1p9vhgeBlqw2b4VYemKkwiQDGg6GzIj0mLj+U2/Y=
 			</data>
 		</dict>
 		<key>Headers/AWSDevice.h</key>
@@ -699,11 +699,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EMML1qEgXOByP6owneKXAn9W/9Y=
+			FypHcl83czTPB+2k2i8wLnoDpSI=
 			</data>
 			<key>hash2</key>
 			<data>
-			+mhrFHzxU+QN5YUJcPP9xBpYmt1R4oTr9ib+7ZPlOeA=
+			X929/wzZVa1PlR2jh8bEKMLdpXStRfNCxuhYD4746n0=
 			</data>
 		</dict>
 		<key>Headers/AWSSignature.h</key>
